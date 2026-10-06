@@ -1,0 +1,3 @@
+﻿  pract9.cpp
+C:\Users\st310-02\Desktop\Politov PR-31\pract9\pract9\pract9.cpp(78,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  pract9.vcxproj -> C:\Users\st310-02\Desktop\Politov PR-31\pract9\x64\Debug\pract9.exe
